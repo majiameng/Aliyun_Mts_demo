@@ -39,8 +39,8 @@ function SubmitJobs($client){
 
 
 $region = 'cn-beijing';//
-$accessKeyId = 'LTAIs69XCoHwAmQN';//
-$accessKeySecret = '2MSFmteebW49J8pQz9SFPGhiqExBEc';//
+$accessKeyId = 'LTAIs69XC********';//
+$accessKeySecret = '2MSFmteebW49J8p**********';//
 
 //初始化
 $profile = DefaultProfile::getProfile($region, $accessKeyId,$accessKeySecret);
